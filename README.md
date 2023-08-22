@@ -2,16 +2,8 @@
 
 
 ## Features
-- Dark theme - light theme
-- Caching data
-
-## Screenshots
-  <img src="https://github.com/oguzhan2142/reddit_clone/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202022-10-12%20at%2017.16.42.png" width="200" title="hover text">
-  
-  <img src="https://github.com/oguzhan2142/reddit_clone/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202022-10-12%20at%2017.16.48.png" width="200" title="hover text">
-  
-  <img src="https://github.com/oguzhan2142/reddit_clone/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202022-10-12%20at%2017.16.56.png" width="200" title="hover text">
-
+- Karanlık- Aydınlık tema seçeneği
+- Verileri cacheleme. (Offline çalışabilme)
 
 
 ## Gif
